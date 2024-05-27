@@ -1,0 +1,10 @@
+Proszę napisać klasę Employee z metodami work() i getSalary()
+oraz z konstruktorem przyjmuącym imię, nazwisko i stawkę wypłaty.
+Następnie proszę napisać klasę dziedziczącą z klasy Employee
+o nazwie HiringManager, którą będzie miała dodatkową metodę
+addEmployee().
+Metody powinny mieć naiwną implementację wypisującą komunikaty
+na konsolę.
+
+
+
