@@ -1,0 +1,9 @@
+Proszę napisać interfejs ListInterface zawierający metody:
+addValue(int value)
+getValue(int index)
+printList().
+
+Następnie proszę napisać dwie implementację tego interface'u:
+jeden ArrayList - oparty na tablicy, drugi - LinkedList - oparty
+na pojedynczo wiązanej liście. Implementacje nie powinny korzystać
+z żadnej gotowej implementacji wspomnianych list.
