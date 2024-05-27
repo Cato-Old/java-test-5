@@ -1,0 +1,12 @@
+Proszę napisać abstrakcyjną klasę AbstractList i jej
+dwie implementacje: SingleLinkedList i DoubleLinkedList.
+Metody klasy AbstractList, które powinny być zaimplementowane
+w klasach potomnych:
+
+appendValue(int value);
+getFirstValue();
+getLastValue();
+removeLastValue();
+
+Implementacje SingleLinkedList i DoubleLinkedList nie powinny
+korzystać z żadnej gotowej implementacji wspomnianych list.
